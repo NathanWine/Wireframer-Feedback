@@ -1,6 +1,6 @@
 # Wireframer
 
-## [Try Wireframer out!](http://wireframer.cs.stonybrook.edu/)
+### [Try Wireframer out!](http://wireframer.cs.stonybrook.edu/)
 
 ## About this repo
 
