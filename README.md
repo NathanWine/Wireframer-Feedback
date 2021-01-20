@@ -5,18 +5,17 @@
 ## About this repo
 
 This repository is for gathering feedback on the Wolfie-Tools Wireframer 
-application; the actual codebase is currently not public. Status updates 
+application; the actual codebase is not currently public. Status updates 
 and annoucements regarding Wireframer's development will also be posted here.
 
 ## How to submit feedback?
 
-If you have any suggestions, bug reports, questions, or any other concern you 
-want to have a discussion about, please take a look at the 
+If you have suggestions, bug reports, questions, or any other concerns you 
+want to raise, please take a look at the 
 [issues page](https://github.com/NathanWine/Wireframer-Feedback/issue) and see 
-if a similar post has been made. If not, feel free to open up an issue to 
-start a dialogue!
+if a post has already been made on a similar topic. If not, feel free to open up a new issue to start a discussion!
 
-Note that you can also submit miscellaneous feedback through 
+Note that you can also submit feedback through 
 [less conversational forms](https://forms.gle/DoKxCih3jww8cb9h9) 
 should you prefer that approach.
 
