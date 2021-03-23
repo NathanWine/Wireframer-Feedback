@@ -12,7 +12,7 @@ and annoucements regarding Wireframer's development will also be posted here.
 
 If you have suggestions, bug reports, questions, or any other concerns you 
 want to raise, please take a look at the 
-[issues page](https://github.com/NathanWine/Wireframer-Feedback/issue) and see 
+[issues page](https://github.com/NathanWine/Wireframer-Feedback/issues) and see 
 if a post has already been made on a similar topic. If not, feel free to open up a new issue to start a discussion!
 
 Note that you can also submit feedback through 
